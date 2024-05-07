@@ -8,6 +8,3 @@ def maximum(num1, num2):
 
 
 print(maximum(2, 3))
-
-# TODO: FEEDBACK: Wrong output in below case
-# print(maximum(2, 2))

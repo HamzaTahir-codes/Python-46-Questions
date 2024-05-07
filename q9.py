@@ -4,5 +4,3 @@ def is_member(mem):
 
 
 print(is_member(3))
-
-# TODO: FEEDBACK: not an optimized way to solve the problem are you aware of 'in'?

@@ -16,7 +16,3 @@ def translate(prompt):
 
 
 print(translate(user_input))
-
-
-# TODO: FEEDBACK: we should not use 'string' as variable we have python's string module
-#  which will be override if use string as variable (import string)

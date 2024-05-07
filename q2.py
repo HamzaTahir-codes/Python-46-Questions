@@ -23,5 +23,4 @@ num3 = get_valid_input("Enter number 3: ")
 print(max_of_three(num1, num2, num3))
 # print(max_of_three(12,30,11)
 
-# TODO: FEEDBACK: What if we enters alphabets in put? we need safe checks to avoid crash.
-# I made a validate function which checks for the user input.
+
