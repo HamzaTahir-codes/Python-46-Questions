@@ -24,5 +24,3 @@ set_all_words = set(["ass", "bad", "or", "wit", "dog"])
 
 print(alternade("board", set_all_words))
 print(alternade("waists", set_all_words))
-
-# TODO: FEEDBACK: You must follow pep-8 convention while writing variable names
