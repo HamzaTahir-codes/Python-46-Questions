@@ -18,5 +18,3 @@ def validate_input(prompt):
 list0 = ["Apple", "Banana", "cherry"]
 n = validate_input("Enter a number >>> ")
 print(filter_long_words(list0, n))
-
-# TODO: FEEDBACK: what if user enters some string value?

@@ -7,5 +7,3 @@ def palindrome(palindrome_string):
 
 print(palindrome("radar"))
 
-# TODO: FEEDBACK: we should not use 'string' as parameter we have python's string module
-#  which will be override if use string as parameter (import string)

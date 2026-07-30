@@ -17,5 +17,3 @@ if is_vowel(text):
     print(f"{text} is a vowel.")
 else:
     print(f"{text} is not a vowel.")
-
-# TODO: FEEDBACK: what if user enter more than 1? we should have safe checks

@@ -7,6 +7,3 @@ def length(arr):
 
 string_value = "HamzaAbbasi"
 print(length(string_value))
-
-
-# TODO: FEEDBACK: variable name should be human readable we should't assign string value in num variable.

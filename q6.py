@@ -16,5 +16,3 @@ num_list = [1, 2, 3, 4]
 print(sum_of_numbers(num_list))
 print(multiply_numbers(num_list))
 
-
-# TODO: FEEDBACK: text is not reasonable variable name for list of positive integers.
